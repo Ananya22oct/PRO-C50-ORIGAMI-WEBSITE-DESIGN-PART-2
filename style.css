@@ -1,0 +1,41 @@
+.header{
+    background-color: blueviolet;
+    display: flex;
+}
+
+.bodying{
+    background-color:aqua;
+    display: flex;
+}
+
+.grid {
+    display:flex;
+    
+    justify-content: space-between;
+
+}
+
+.origami {
+    display:flex;
+    justify-content: space-between;
+}
+.l{
+    display:flex;
+    justify-content:space-between;
+}
+.a{
+    display:flex;
+    justify-content:space-between;
+}
+body{
+    background:rgb(255, 185, 255)
+}
+.menu{
+    display:flex;
+    justify-content: space-between;
+    background-color: blueviolet;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color:white;
+}
